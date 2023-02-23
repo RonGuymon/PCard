@@ -1,2 +1,2 @@
 # PCard
-This is a repository for the PCard Case
+This is a repository for the PCard Case.
